@@ -178,4 +178,5 @@ To recompress images after adding new ones, run `npm run images:optimize`.
 
 ## License
 
-[MIT](LICENSE) © 2026 Raja Mohamad
+[MIT](LICENSE) © 2026 Shashwat Dodamani
+
