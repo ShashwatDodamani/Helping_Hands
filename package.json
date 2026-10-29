@@ -17,13 +17,13 @@
     "build:pages": "node scripts/build-pages.js",
     "images:optimize": "node scripts/optimize-images.js"
   },
-  "homepage": "https://raja9964.github.io/Helping-Hands/",
-  "author": "Raja Mohamad",
+  "homepage": "https://ShashwatDodamani.github.io/Helping-Hands/",
+  "author": "Shashwat Dodamani",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Raja9964/Helping-Hands.git"
-  },
+  "type": "git",
+  "url": "git+https://github.com/ShashwatDodamani/Helping-Hands.git"
+},
   "dependencies": {
     "cookie-parser": "^1.4.7",
     "express": "^5.2.1",
