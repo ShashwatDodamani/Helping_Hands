@@ -3,7 +3,7 @@
 import { DEMO_ADMIN_PASSWORD } from '../scripts/demo-data.js';
 import { createDemoApi } from './api.js';
 
-const REPO_URL = 'https://github.com/Raja9964/Helping-Hands';
+const REPO_URL = 'https://github.com/ShashwatDodamani/Helping_Hands';
 const apiRoot = new URL('../api/', import.meta.url);
 
 const live = liveChannel('helping-hands-demo');
