@@ -4,7 +4,7 @@ Doorstep donation pickup with a tracking code for every gift, and a live dashboa
 
 [![CI](https://github.com/Raja9964/Helping-Hands/actions/workflows/ci.yml/badge.svg)](https://github.com/Raja9964/Helping-Hands/actions/workflows/ci.yml)
 
-**[▶ Live demo](https://raja9964.github.io/Helping-Hands/)**: runs in your browser with sample data; the full app uses Node.js + MongoDB.
+**[▶ Live demo](https://shashwatdodamani.github.io/Helping_Hands/)**: runs in your browser with sample data; the full app uses Node.js + MongoDB.
 
 | Landing page | Thank-you page with code |
 | --- | --- |
